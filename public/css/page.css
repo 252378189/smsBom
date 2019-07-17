@@ -1,0 +1,44 @@
+.content {
+    max-width:1200px ;
+    margin: 0 auto;
+}
+.navbar {
+    /*重写导航类*/
+    position: relative;
+    min-height: 50px;
+     margin-bottom: 0;
+    border: 1px solid transparent;
+}
+.desc {
+  text-align: center;
+}
+.desc img {
+    margin-top: 30px;
+}
+
+.case {
+    text-align: center;
+    margin-top: 40px;
+}
+table{
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 20px;
+    border-spacing: 0;
+    border-collapse: collapse;
+    background-color: transparent;
+    border: 1px solid #ddd;
+}
+
+th {
+    width: 10%;
+    border: 1px solid #ddd;
+    line-height: 40px;
+}
+td {
+    width: 20%;
+    border: 1px solid #ddd;
+    line-height: 40px;
+    text-align: center
+}
+
