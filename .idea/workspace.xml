@@ -1,25 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/resources/views/index.blade.php" line="41" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a9dfe297-f41e-467e-86c7-e8d23fb27e2e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/IndexController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/page.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/brand_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/carousel.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/index.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/public/carousel.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/public/footer.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/public/head.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/public/navBar.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/public/viewBase.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/bjx.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/ForgotPasswordController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/ResetPasswordController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/VerificationController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/page.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/page.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/index.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,20 +16,23 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-317709705">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.13" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="3" />
+          <entry key="css" value="4" />
           <entry key="gitignore" value="1" />
           <entry key="md" value="2" />
           <entry key="php" value="25" />
@@ -50,7 +42,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Blade" value="21" />
-          <entry key="CSS" value="3" />
+          <entry key="CSS" value="4" />
           <entry key="Markdown" value="2" />
           <entry key="PHP" value="4" />
           <entry key="PLAIN_TEXT" value="1" />
@@ -59,15 +51,15 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="131" />
+          <entry key="css" value="246" />
           <entry key="md" value="55" />
-          <entry key="php" value="774" />
+          <entry key="php" value="1064" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Blade" value="708" />
-          <entry key="CSS" value="131" />
+          <entry key="Blade" value="998" />
+          <entry key="CSS" value="246" />
           <entry key="Markdown" value="55" />
           <entry key="PHP" value="66" />
         </counts>
@@ -80,25 +72,50 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/public/carousel.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="22" column="86" lean-forward="true" selection-start-line="22" selection-start-column="86" selection-end-line="22" selection-end-column="86" />
+            <state relative-caret-position="594">
+              <caret line="22" column="86" selection-start-line="22" selection-start-column="86" selection-end-line="22" selection-end-column="86" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/index.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="39" column="25" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="25" />
+              <folding>
+                <element signature="e#52#394#0#HTML" />
+                <element signature="e#398#680#0#HTML" />
+                <element signature="e#467#550#0#HTML" />
+                <element signature="e#563#652#0#HTML" />
+                <element signature="e#731#1325#0#HTML" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resources/views/index.blade.php">
+        <entry file="file://$PROJECT_DIR$/public/css/page.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
+            <state relative-caret-position="472">
+              <caret line="73" column="20" selection-start-line="73" selection-start-column="20" selection-end-line="73" selection-end-column="20" />
               <folding>
-                <element signature="e#319#344#0#HTML" expanded="true" />
-                <element signature="e#361#400#0#HTML" />
-                <element signature="e#492#531#0#HTML" />
+                <element signature="e#9#55#0" />
+                <element signature="e#64#185#0" />
+                <element signature="e#192#217#0" />
+                <element signature="e#228#253#0" />
+                <element signature="e#261#310#0" />
+                <element signature="e#316#499#0" />
+                <element signature="e#504#574#0" />
+                <element signature="e#578#671#0" />
+                <element signature="e#687#695#0" />
+                <element signature="e#732#740#0" />
+                <element signature="e#777#785#0" />
+                <element signature="e#909#936#0" />
               </folding>
             </state>
           </provider>
@@ -136,8 +153,8 @@
         <option value="$PROJECT_DIR$/resources/views/public/carousel.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/public/navBar.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/public/head.blade.php" />
-        <option value="$PROJECT_DIR$/public/css/page.css" />
         <option value="$PROJECT_DIR$/resources/views/index.blade.php" />
+        <option value="$PROJECT_DIR$/public/css/page.css" />
       </list>
     </option>
   </component>
@@ -264,7 +281,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -281,30 +297,13 @@
               <item name="smsBom" type="b2602c69:ProjectViewProjectNode" />
               <item name="smsBom" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="smsBom" type="b2602c69:ProjectViewProjectNode" />
-              <item name="smsBom" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="smsBom" type="b2602c69:ProjectViewProjectNode" />
-              <item name="smsBom" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="smsBom" type="b2602c69:ProjectViewProjectNode" />
-              <item name="smsBom" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -342,26 +341,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563351155071</updated>
-      <workItem from="1563351158695" duration="5872000" />
+      <workItem from="1563351158695" duration="6319000" />
+      <workItem from="1563433425391" duration="630000" />
+      <workItem from="1563440975689" duration="2553000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5872000" />
+    <option name="totallyTimeSpent" value="9502000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="npm" side_tool="true" />
-      <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22083333" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32944915" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -369,10 +365,15 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32944915" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -413,9 +414,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="23" column="27" lean-forward="true" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
-          <folding>
-            <element signature="e#119#326#0#PHP" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -428,20 +426,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/server.php">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/public/navBar.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="12" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/public/carousel.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="22" column="86" lean-forward="true" selection-start-line="22" selection-start-column="86" selection-end-line="22" selection-end-column="86" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/public/head.blade.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -457,21 +441,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/page.css">
+    <entry file="file://$PROJECT_DIR$/resources/views/public/navBar.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        <state>
+          <caret column="18" selection-start-column="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/public/carousel.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" column="86" selection-start-line="22" selection-start-column="86" selection-end-line="22" selection-end-column="86" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/index.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
+        <state relative-caret-position="162">
+          <caret line="39" column="25" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="25" />
           <folding>
-            <element signature="e#319#344#0#HTML" expanded="true" />
-            <element signature="e#361#400#0#HTML" />
-            <element signature="e#492#531#0#HTML" />
+            <element signature="e#52#394#0#HTML" />
+            <element signature="e#398#680#0#HTML" />
+            <element signature="e#467#550#0#HTML" />
+            <element signature="e#563#652#0#HTML" />
+            <element signature="e#731#1325#0#HTML" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="73" column="20" selection-start-line="73" selection-start-column="20" selection-end-line="73" selection-end-column="20" />
+          <folding>
+            <element signature="e#9#55#0" />
+            <element signature="e#64#185#0" />
+            <element signature="e#192#217#0" />
+            <element signature="e#228#253#0" />
+            <element signature="e#261#310#0" />
+            <element signature="e#316#499#0" />
+            <element signature="e#504#574#0" />
+            <element signature="e#578#671#0" />
+            <element signature="e#687#695#0" />
+            <element signature="e#732#740#0" />
+            <element signature="e#777#785#0" />
+            <element signature="e#909#936#0" />
           </folding>
         </state>
       </provider>
