@@ -11,4 +11,7 @@
 |
 */
 
+//首页
 Route::get('/', 'IndexController@index');
+//任务投递
+Route::post('/store', 'IndexController@store');
