@@ -9,6 +9,7 @@
 namespace App\Http\Controllers;
 
 use App\Models\Task;
+use Illuminate\Database\QueryException;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Validator;
 
@@ -61,6 +62,12 @@ class IndexController
         }
         //认证后的字段值数组
         $fieldArray = $validator->validated();
+        $phoneIsExists = Task::query()
+            ->where('phone', $fieldArray['phone'])
+            ->exists();
+        if ($phoneIsExists) {
+            return back()->withErrors(['此号码已经被其他用户投递过不能重复投递'])->withInput();
+        }
         Task::query()->create($fieldArray);
         return redirect('/')->with('success', '投递成功');
     }

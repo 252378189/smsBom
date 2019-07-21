@@ -20,8 +20,8 @@ class Task extends Model
      */
     protected $fillable = [
         'id', //主键Id
-        'phone', //受害者手机号码
-        'count', //发送短信次数, default(0)
+        'phone', //unique 受害者手机号码
+        'count', //default(0) 发送短信次数,
         'is_end', //default(0) 是否结束对他的短信发送 0是没有  1是已经结束
     ];
 

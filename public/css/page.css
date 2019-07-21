@@ -67,6 +67,12 @@ td {
     }
 }
 
+@media screen and (max-width: 400px) {
+    #myCarousel {
+        display: none;
+    }
+}
+
 .statement {
     text-align: center;
 }
